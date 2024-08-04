@@ -13,6 +13,7 @@ export const projectsData = [
         code: '',
         demo: '',
         image: crefin,
+        link: 'https://crefin.ai'
     },
     {
         id: 2,
@@ -23,6 +24,7 @@ export const projectsData = [
         code: '',
         demo: '',
         image: travel,
+        link: 'https://2expedition.com'
     },
     {
         id: 3,
@@ -33,6 +35,7 @@ export const projectsData = [
         role: 'Full Stack Developer',
         demo: '',
         image: realEstate,
+        link: 'https://ayla.ai'
     },
     {
         id: 4,
@@ -43,6 +46,7 @@ export const projectsData = [
         demo: '',
         image: ayla,
         role: 'Full Stack Developer',
+        link: 'https://ayla.ai'
     }
 ];
 
